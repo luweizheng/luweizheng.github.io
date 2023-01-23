@@ -104,7 +104,7 @@ contact_note: >
 # -----------------------------------------------------------------------------
 
 google_analytics: G-7J5KG1Q4KZ
-panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
+panelbear_analytics:  57HVbfHQ03f
 
 google_site_verification: Ciqsb0Xmfqj-hV8PWsN9BzXoVITRuJ2Xkpph_0c3y4M
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
@@ -323,8 +323,8 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    true  # enables google analytics
-enable_panelbear_analytics: false  # enables panelbear analytics
+enable_google_analytics:    false  # enables google analytics
+enable_panelbear_analytics: true  # enables panelbear analytics
 enable_google_verification: true  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arangement
