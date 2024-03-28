@@ -4,20 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a research engineer at the High-Performance Computing Center, Renmin University of China. I'm broadly interested in Machine Learning System, Data Science, and Data Management Systems.
+
+I am also a technical writer. I have written articles and tutorials on various topics including distributed computing (e.g. [Flink](https://lulaoshi.info/), [Distributed Python](https://godaai.github.io/distributed-python-en/)), and Deep Learning.
+
+Previously, I was a big data engineer at [Xiaomi](https://en.wikipedia.org/wiki/Xiaomi). I was a staff member of the recommendation system of the Xiaomi Browser. I also worked at [Zhipin](https://www.zhipin.com/), the largest online recruitment platform in China. 
+
+I received my master's degree at Peking University and my bachelor's degree at Beijing University of Posts and Telecommunications.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **High-Performance Computing:** machine learning system, high-performance AI systems
+- **Data Science:** data science frameworks and tools, large model for data analysis
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2024]** Our paper "Xorbits: Automating Operator Tiling for Distributed Data Science" has been selected as the Best Paper Runner-Up Award at the ICDE 2024 Industrial and Application track!
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}

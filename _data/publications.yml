@@ -1,22 +1,22 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Xorbits: Automating Operator Tiling for Distributed Data Science"
+    authors: <strong>Weizheng Lu</strong>, Kaisheng He, Xuye Qin, Chengjie Li, Zhong Wang, Tao Yuan, Xia Liao, Feng Zhang, Yueguo Chen, Xiaoyong Du 
+    conference_short: ICDE
+    conference: IEEE 40th International Conference on Data Engineering <strong>(ICDE)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2401.00865.pdf
+    code: https://github.com/xorbitsai/xorbits/
+    image: ./assets/img/xorbits.png
+    notes: Best Paper Runner-Up of Industrial and Application track
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Evaluation and Optimization for Huawei Ascend Neural Network Accelerator / 华为昇腾神经网络加速器性能评测与优化
+    authors: <strong>Weizheng Lu</strong>, Feng Zhang, Yinxuan He, Yueguo Chen, Jidong Zhai, Xiaoyong Du 
+    conference: Chinese Journal of Computers, 2022.
+    pdf: http://cjc.ict.ac.cn/online/onlinepaper/lwz-202286133321.pdf
+    image: ./assets/img/huawei-ascend.png
+  
+  - title: Principle and Practice of Flink / Flink原理与实践
+    authors: <strong>Weizheng Lu / 鲁蔚征</strong> 
+    conference: People's Posts and Telecommunications Press / 人民邮电出版社, 2021.
+    image: ./assets/img/flink-book.jpeg
+    pdf: https://lulaoshi.info/flink/
