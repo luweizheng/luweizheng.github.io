@@ -7,16 +7,10 @@ main:
     pdf: https://arxiv.org/pdf/2401.00865.pdf
     code: https://github.com/xorbitsai/xorbits/
     image: ./assets/img/xorbits.png
-    notes: Best Paper Runner-Up of Industrial and Application track
+    notes: 🏆 Best Paper Runner-Up of Industrial and Application track
 
-  - title: Evaluation and Optimization for Huawei Ascend Neural Network Accelerator / 华为昇腾神经网络加速器性能评测与优化
-    authors: <strong>Weizheng Lu</strong>, Feng Zhang, Yinxuan He, Yueguo Chen, Jidong Zhai, Xiaoyong Du 
-    conference: Chinese Journal of Computers, 2022.
+  - title: 华为昇腾神经网络加速器性能评测与优化
+    authors: <strong>鲁蔚征</strong>, 张峰, 贺寅烜, 陈跃国, 翟季冬, 杜小勇
+    conference: 计算机学报, 2022.
     pdf: http://cjc.ict.ac.cn/online/onlinepaper/lwz-202286133321.pdf
     image: ./assets/img/huawei-ascend.png
-  
-  - title: Principle and Practice of Flink / Flink原理与实践
-    authors: <strong>Weizheng Lu / 鲁蔚征</strong> 
-    conference: People's Posts and Telecommunications Press / 人民邮电出版社, 2021.
-    image: ./assets/img/flink-book.jpeg
-    pdf: https://lulaoshi.info/flink/
