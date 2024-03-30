@@ -1,7 +1,0 @@
-main:
-  
-  - title: Flink 原理与实践
-    authors: <strong>鲁蔚征</strong> 
-    conference: 人民邮电出版社, 2021.
-    image: ./assets/img/flink-book.jpeg
-    pdf: https://lulaoshi.info/flink/
