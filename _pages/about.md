@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a research engineer at the High-Performance Computing Center, Renmin University of China. I'm broadly interested in High-Performance Data Analysis, Data Science, and Machine Learning Systems. I am a technical evangelist, having authored articles and tutorials on diverse topics, including distributed computing (e.g. [Flink](https://lulaoshi.info/flink/), [Distributed Python](https://scale-py.godaai.org/)). Furthermore, I have published several books and delivered presentations at various industrial and academic conferences.
+I am a research engineer at the High-Performance Computing Center, Renmin University of China. I'm broadly interested in High-Performance Data Analysis, Data Science, and Machine Learning Systems. I am a technical evangelist, having authored articles and tutorials on diverse topics, including distributed computing (e.g. [Flink](https://lulaoshi.info/flink/), [Scalable Python](https://scale-py.godaai.org/)). Furthermore, I have published several books and delivered presentations at various industrial and academic conferences.
 
-Before joining Renmin University, I had garnered years of experience working with some of the leading Chinese tech companies. For example, at [Xiaomi Inc.](https://en.wikipedia.org/wiki/Xiaomi) (小米集团), I held the position of Big Data Engineer, where I developed the recommendation system for the Xiaomi Browser.
+Before joining Renmin University, I had garnered years of experience working with some of the leading Chinese tech companies. For example, at [Xiaomi Inc.](https://en.wikipedia.org/wiki/Xiaomi) (小米), I held the position of Big Data Engineer, where I developed the recommendation system for the Xiaomi Browser.
 
 ## Research Interests
 
