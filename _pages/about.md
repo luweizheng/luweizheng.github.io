@@ -24,7 +24,7 @@ Before joining Renmin University, I had garnered years of experience working wit
 ## Research Interests
 
 - **High-Performance Computing:** machine learning systems, high-performance AI systems
-- **Data Science:** data science frameworks and tools, large model for data analysis
+- **Data Science:** data science frameworks and tools, AI for data analysis
 
 <strong style="color:#e74d3c">I am open to collaborations, feel free to reach out.</strong>
 
