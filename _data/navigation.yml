@@ -12,6 +12,9 @@ main:
   - title: "Books"
     url: "/#-books"
 
+  - title: "Services"
+    url: "/#-services"
+
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
 
@@ -20,6 +23,3 @@ main:
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
-
-  # - title: "Internships"
-  #   url: "/#-internships"
